@@ -1,0 +1,32 @@
+.book-row{
+    margin: 1px 5px;
+    box-shadow: 2px 2px 10px #6c8a8a;
+    /*display: grid;*/
+    /*grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;*/
+}
+
+table tr{
+    /*box-shadow: 0 0 10px #909090;*/
+    padding: 10px;
+    background-color: #fff;
+    border: none;
+}
+
+table td{
+    width: 13%;
+    /*box-shadow: 0 0 5px #909090;*/
+    border: none;
+
+}
+
+table p{
+    margin: 0;
+    padding: 0;
+}
+
+.book-img-box{
+}
+
+.book-img-box img{
+    width: 50%;
+}

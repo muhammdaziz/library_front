@@ -1,0 +1,15 @@
+@keyframes __slideInLeft {
+    from {
+        transform: none;
+    }
+
+    to {
+        transform: translateX(50px);
+    }
+}
+
+.circle{
+    border-radius: 50%;
+    height: 100%;
+    width: 49%;
+}

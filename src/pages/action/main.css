@@ -1,0 +1,12 @@
+.action-box{
+    /*background-color: red;*/
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.action-box button{
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: #fff;
+}

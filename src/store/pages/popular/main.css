@@ -1,0 +1,40 @@
+.popular{
+    padding: 0 40px;
+}
+
+.popular .popular-box{
+    display: grid;
+    padding: 40px 40px;
+    grid-template-columns: 1fr 1.3fr;
+    background-color: rgb(255, 249, 232);
+
+}
+
+.popular .popular-box-context{
+    padding: 50px 40px;
+    color: rgb(36, 41, 47);
+}
+
+.popular .popular-box-context .title{
+    width: 60%;
+    margin-top: -10px;
+}
+
+.popular .popular-box-context .open-context-btn{
+    background-color: rgb(52, 163, 82);
+    color: #fff;
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 5px;
+    border: rgb(48, 144, 75) solid 1px;
+    margin-top: 20px;
+}
+
+.popular .popular-box-context .open-context-btn:active{
+    background-color: rgb(48, 144, 75);
+}
+
+.popular .popular-box #popular{
+    width: 50%;
+    margin: 8% auto;
+}

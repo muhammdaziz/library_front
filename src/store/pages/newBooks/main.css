@@ -1,0 +1,9 @@
+.new-book-page{
+    padding: 30px 90px;
+    font-family: "Hoefler Text", serif;
+}
+
+.new-book-page .title{
+    padding: 40px 30%;
+    text-align: center;
+}

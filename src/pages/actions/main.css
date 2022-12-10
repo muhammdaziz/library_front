@@ -1,0 +1,16 @@
+.action-btn{
+    border: rgb(134, 174, 232) solid 2px;
+    padding: 5px;
+    margin: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button{
+    background-color: unset;
+}
+
+.action-btn p{
+    margin: 5px;
+    font-size: 7px;
+}

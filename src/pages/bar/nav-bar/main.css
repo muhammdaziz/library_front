@@ -1,0 +1,17 @@
+.logo{
+    width: 30%;
+    height: 80%;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    margin-left: 40px;
+}
+
+.logo img{
+    height: 90%;
+    width: 90%;
+}
+
+.logo h3{
+    margin-top: 10%;
+    margin-left: 15px;
+}

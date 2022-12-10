@@ -1,0 +1,65 @@
+.editBookCard{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 3px;
+    background-color: rgba(232, 226, 226, 0.15);
+    border-radius: 5px;
+    position: relative;
+    box-shadow: 1px 0 5px #999999;
+    padding: 7px;
+}
+
+.editBookCard .img-box img{
+    width:85%;
+    height: auto;
+}
+
+.editBookCard .control-box{
+    display: grid;
+    grid-template-columns: 4fr 1fr 4fr 4fr;
+    justify-content: space-between;
+    padding: 0 10px;
+    width: 45%;
+    position: absolute;
+    bottom: 15px;
+}
+
+.editBookCard .control-box button{
+    height: 30px;
+    font-size: 13px;
+}
+
+.editBookCard input{
+    margin: 5px 0;
+    height: 30px;
+    border-radius: 5px;
+    outline: none;
+    color: rgb(134, 174, 232);
+    padding-left: 10px;
+    background-color: rgba(255, 255, 255, 0.63);
+    border: none;
+}
+
+.editBookCard textarea{
+    background-color: rgba(255, 255, 255, 0.63);
+    color: rgb(134, 174, 232);
+    border-radius: 5px;
+    padding-left: 10px;
+    outline: none;
+    border: none;
+    height: 70px;
+}
+
+.editBookCard .control-box .dollar{
+    margin-top: 6px;
+    margin-left: -15px;
+}
+
+.editBookCard .title{
+    text-align: center;
+}
+
+.editBookCard .price{
+    width: 70%;
+    margin: 0;
+}

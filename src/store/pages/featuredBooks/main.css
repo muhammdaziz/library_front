@@ -1,0 +1,22 @@
+.featured-book-box{
+    padding: 3% 3%;
+    font-family: "Hoefler Text", serif;
+    text-align: center;
+}
+
+.featured-book-box .category-box .featured-book-box-btn{
+    font-size: 14px;
+    padding: 10px 20px;
+    margin: 5px 5px;
+    border: 1px solid rgb(36, 41, 47);
+    border-radius: 3px;
+}
+
+.featured-book-box .featured-book-box-btn:active{
+    background-color: rgb(208, 65, 55);
+    border-color: white;
+}
+
+.featured-book-box .category-box{
+    padding: 0 10% 30px;
+}

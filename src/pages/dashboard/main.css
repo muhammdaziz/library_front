@@ -1,0 +1,10 @@
+.workspace{
+    width: 100%;
+    border-radius: 5px;
+    background-color: rgba(219, 222, 215, 0.31);
+}
+
+.workspace h1, .workspace p{
+    color:  rgb(134, 174, 232);
+}
+

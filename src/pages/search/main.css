@@ -1,0 +1,33 @@
+.search-box{
+    width: 200px;
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+}
+
+.search-btn{
+    background-color: unset;
+    border: none;
+    margin: 0 5px;
+    height: 30px;
+
+}
+
+.search-box input{
+    border: none;
+    height: 30px;
+    border-radius: 3px;
+    padding-left: 10px;
+    outline: none;
+    color: rgb(134, 174, 232);
+}
+
+.modal-search{
+    position: relative;
+}
+
+.search-box-modal{
+    margin-top: -5px;
+    margin-left: 25%;
+    position: absolute;
+    z-index: 999999;
+}

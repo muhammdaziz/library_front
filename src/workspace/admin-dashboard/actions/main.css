@@ -1,0 +1,9 @@
+.action-btn{
+    border: rgba(36,41,47,0.64) solid 2px;
+    padding: 2px 20px 0;
+    margin: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    height: 30px;
+    background-color: rgba(36, 41, 47, 0.87);
+}

@@ -1,0 +1,29 @@
+.nav-bar .profile-btn{
+    width:50px;
+    height: 26px;
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    margin-top: 0.3%;
+    background-color: unset;
+    border: none;
+}
+
+.nav-bar .profile-btn img{
+    width: 50%;
+    height:110%;
+    border-radius: 50%;
+}
+
+.overlay-box{
+    margin-left: -0.85%;
+    margin-top: 0.3%;
+}
+
+.profile-list{
+    margin: 10px 0;
+}
+
+.overlay-box h3{
+    padding: 15px;
+}

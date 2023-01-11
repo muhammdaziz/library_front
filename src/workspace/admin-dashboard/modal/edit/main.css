@@ -1,0 +1,23 @@
+.edit-modal-box{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(234, 232, 232, 0.82);
+    left: 0;
+    top: 0;
+    z-index: 999999;
+}
+
+.edit-modal-box h2{
+    color: rgb(134, 174, 232);
+    margin-bottom: 10px;
+}
+
+.edit-modal{
+    background-color: rgb(255, 255, 255);
+    width: 50vw;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10% auto;
+    text-align: left;
+}

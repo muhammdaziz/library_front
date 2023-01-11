@@ -1,0 +1,101 @@
+.login{
+    /*background-color: rgb(245, 245, 245);*/
+    /*background-color: rgb(226, 233, 234);*/
+    height: 100%;
+    padding: 9% 50px;
+}
+
+.login .login-form-box{
+    /*height: 50vh;*/
+    display: grid;
+    grid-template-columns: 1.4fr 1fr;
+    padding: 25px 0;
+    /*background-color: peru;*/
+    /*background-color: rgb(245, 245, 245);*/
+}
+
+.login .login-form-box img{
+    width: 100%;
+}
+
+.login .form-box{
+    /*background-color: beige;*/
+    border-left: 2px #909090 solid;
+    padding: 10% 60px;
+}
+
+.login .form-box form {
+    color: #909090;
+}
+
+.login .welcome{
+    font-size: 45px;
+}
+
+.login .form-box input{
+    width: 100%;
+    height: 40px;
+    font-size: 25px;
+    padding-left: 12px;
+    border: none;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #909090;
+    outline: none;
+    color: #909090;
+}
+
+.login .form-control-box{
+    display: grid;
+    grid-template-columns: 1fr 9fr 4.5fr;
+}
+
+.login .forget-btn{
+    background-color: unset;
+    border: none;
+    font-size: 15px;
+    padding: 0;
+    height: fit-content;
+    width: fit-content;
+    margin-top: 20px;
+    font-style: italic;
+    cursor: pointer;
+    color: #909090;
+}
+
+.login .submit-btn{
+    background-color: rgb(202, 207, 233);
+    font-size: 25px;
+    padding: 25px 20px;
+    border-radius: 50px;
+    border: none;
+    color: #fff;
+    line-height: 0;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.login .sign-control{
+    display: flex;
+    flex-direction: row;
+}
+
+.login .sign-control{
+    margin-top: 80px;
+    color: #909090;
+}
+
+.login .sign-control .switch-sign-btn{
+    border: none;
+    height: fit-content;
+    font-size: 18px;
+    margin-top: 3px;
+    font-weight: 800;
+    color:  rgb(202, 207, 233);
+    background-color: unset;
+    cursor: pointer;
+}
+
+.login .sign-control p{
+    line-height: 0;
+}
+

@@ -1,0 +1,18 @@
+.login{
+    height: 100vh;
+    padding: 13% 0;
+}
+
+.login img{
+    width: 100%;
+}
+
+.login .welcome{
+    font-size: 300%;
+    margin-bottom: 20px;
+}
+
+.login .form-box{
+    border-left: 2px #909090 solid;
+
+}

@@ -1,0 +1,9 @@
+.custom-card{
+    text-align: center;
+}
+
+.custom-card .card-image{
+    transition: 0.5s;
+    padding: 7%;
+}
+

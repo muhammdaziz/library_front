@@ -1,0 +1,33 @@
+.featured-book-box{
+    margin-top: 4%;
+    padding: 3%;
+    font-family: "Hoefler Text", serif;
+    text-align: center;
+    /*margin-bottom: 30%;*/
+    /*background: linear-gradient(rgba(246, 2, 137, 0), rgba(246, 2, 137, 0.5), rgb(246, 2, 137, 1));*/
+}
+
+.featured-book-box .category-box .featured-book-box-btn{
+    font-size: 14px;
+    padding: 10px 20px;
+    margin: 5px 5px;
+    border: 1px solid rgb(36, 41, 47);
+    border-radius: 3px;
+    width: fit-content;
+}
+
+.featured-book-box .featured-book-box-btn:active{
+    background-color: rgb(208, 65, 55);
+    border-color: white;
+    color: white;
+}
+
+.featured-book-box .category-box{
+    padding: 0 10% 30px;
+}
+
+.featured-book-box .book-box{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    overflow-y: auto;
+}

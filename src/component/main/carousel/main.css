@@ -1,0 +1,31 @@
+
+.popular .title{
+    margin-top: -10px;
+    font-weight: 550;
+    font-size: 30px;
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+.popular .option-popular{
+    margin-top: 13%;
+}
+
+.popular .read-btn{
+    background-color: rgb(52, 163, 82);
+    color: #fff;
+    font-weight: 700;
+    padding: 6px 10px;
+    border-radius: 5px;
+    border: rgb(48, 144, 75) solid 1px;
+    margin-top: 20px;
+}
+
+.popular .read-btn:active{
+    background-color: rgb(48, 144, 75);
+}
+
+.popular .popular-img{
+    width: 60%;
+    margin: 0 auto;
+}

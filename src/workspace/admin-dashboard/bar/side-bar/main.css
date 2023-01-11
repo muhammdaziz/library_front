@@ -1,0 +1,77 @@
+.side-bar-box{
+    color: white;
+}
+
+.side-bar-box .user-box{
+    padding: 20px 20px 10px;
+}
+
+.side-bar-box .card{
+    margin: 0 5px;
+}
+
+.side-bar-box .user-box .admin-name-box{
+    margin: 0;
+}
+
+.side-bar-box p{
+    margin: 5px;
+}
+
+.side-bar-box .user-box .admin-name-box .name{
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.side-bar-box .user-box .admin-name-box .role{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.side-bar-box .pages{
+    padding-top: 5px;
+    padding-bottom: 10px;
+    border-top: 2px solid #ffffff;
+    height: 65vh;
+}
+
+.side-bar-box .list{
+    padding: 0;
+}
+
+.side-bar-box .list li{
+    list-style-type: none;
+    background-color: rgba(134, 174, 232, 0.24);
+    margin: 3px 0;
+}
+
+.side-bar-box .list li:hover{
+    background-color: rgb(134, 174, 232);
+}
+
+.side-bar-box .list li button{
+    text-align: left;
+    margin: 3px;
+    padding: 5px 5px 5px 20px;
+    width: 100%;
+    background-color: unset;
+    border: none;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+
+.side-bar-box .footer{
+    padding: 20px;
+    border-top: 2px solid #ffffff;
+    background-color: rgba(36, 41, 47, 0.56);
+    /*background-color: rgb(134, 174, 232);*/
+}
+

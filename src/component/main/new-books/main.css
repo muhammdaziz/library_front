@@ -1,0 +1,8 @@
+.new-book-page{
+    padding: 30px 90px;
+}
+
+.new-book-page .title{
+    padding: 40px 30%;
+    text-align: center;
+}
